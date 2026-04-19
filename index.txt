@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/AstralSightStudios/AstroBox-NG-Plugin-MiFitnessLogReader/refs/heads/main/
 https://raw.githubusercontent.com/sf-yuzifu/Daymatter-AstroBox-Plugin/refs/heads/v2/
 https://raw.githubusercontent.com/sf-yuzifu/bandcomic_AstroBox-Plugin/refs/heads/v2/
 https://raw.githubusercontent.com/waterflames-team/clartime-astroplugin-v2-rust/refs/heads/master/
