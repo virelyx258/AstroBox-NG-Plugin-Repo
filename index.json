@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T14:49:22.631Z",
+  "generatedAt": "2026-06-23T16:40:38.497Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -188,7 +188,7 @@
       "manifest": {
         "name": "网桥 FetchBridge",
         "icon": "icon.png",
-        "version": "1.2.1",
+        "version": "1.2.2",
         "description": "让不支持 fetch 的小米穿戴设备通过 interconnect 恢复其等价能力。",
         "author": "Searchstars",
         "website": "https://github.com/AstralSightStudios/AstroBox-NG-Plugin-MiWear-InterconnectFetch",
