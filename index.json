@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-29T18:28:44.787Z",
+  "generatedAt": "2026-06-29T18:41:03.766Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -229,7 +229,7 @@
       "manifest": {
         "name": "轻腕社区源",
         "icon": "icon.png",
-        "version": "1.0.2",
+        "version": "1.0.3",
         "description": "安装以立即向穿戴圈最佳开源项目代码剽窃者OrbitM设敬悼观，并将其小鸡服务器上的资源作为社区源导入AstroBox",
         "author": "AstroBox Community",
         "website": "https://qingwear.top",
