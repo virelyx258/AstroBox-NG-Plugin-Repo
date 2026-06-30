@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-30T14:19:48.074Z",
+  "generatedAt": "2026-06-30T14:46:14.710Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -256,6 +256,29 @@
         "wasi_version": 2,
         "api_level": 3,
         "permissions": [],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/leset0ng/BandTotp-astrobox/refs/heads/master/",
+      "folder": "dist",
+      "manifest": {
+        "name": "BandTOTP同步器",
+        "icon": "icon.png",
+        "version": "1.0.0",
+        "description": "将 TOTP URI 同步到小米手环快应用",
+        "author": "lesetong",
+        "website": "https://github.com/leset0ng/BandTOTP-Android",
+        "entry": "bandtotp.wasm",
+        "wasi_version": 2,
+        "api_level": 3,
+        "permissions": [
+          "network",
+          "device",
+          "interconnect",
+          "dialog",
+          "thirdpartyapp"
+        ],
         "additional_files": []
       }
     }
