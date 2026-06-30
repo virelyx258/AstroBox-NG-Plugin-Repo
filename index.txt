@@ -9,3 +9,4 @@ https://raw.githubusercontent.com/FangAiden/Debug-Helper-AstroBox-Plugin/refs/he
 https://raw.githubusercontent.com/AstralSightStudios/AstroBox-NG-Plugin-MiWear-InterconnectFetch/refs/heads/master/
 https://raw.githubusercontent.com/Leakrooms/PowerfulPlugins/refs/heads/main/
 https://raw.githubusercontent.com/leset0ng/ab-unlockcode/refs/heads/master/
+https://raw.githubusercontent.com/leset0ng/BandTotp-astrobox/refs/heads/master/
