@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-17T09:56:53.506Z",
+  "generatedAt": "2026-07-17T10:47:24.072Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -262,6 +262,28 @@
           "interconnect",
           "dialog",
           "thirdpartyapp"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/B4QAQ/EternalAstroboxPlugins/refs/heads/master/",
+      "folder": "release",
+      "manifest": {
+        "name": "永昼天气同步器",
+        "icon": "icon.png",
+        "version": "3.3.14",
+        "description": "在AstroBox中同步天气数据到永昼天气",
+        "author": "B4QAQ",
+        "website": "https://docs.b4qaq.cn/docs/eternal",
+        "entry": "EternalAstroboxV2Plugin.wasm",
+        "wasi_version": 2,
+        "api_level": 3,
+        "permissions": [
+          "interconnect",
+          "thirdpartyapp",
+          "device",
+          "register_interconnect_recv"
         ],
         "additional_files": []
       }
