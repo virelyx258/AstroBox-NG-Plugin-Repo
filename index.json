@@ -1,27 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T09:26:25.770Z",
+  "generatedAt": "2026-07-18T13:15:35.966Z",
   "source": "index.txt",
   "plugins": [
-    {
-      "repo": "https://raw.githubusercontent.com/AstralSightStudios/AstroBox-NG-Plugin-MiFitnessLogReader/refs/heads/main/",
-      "folder": "dist",
-      "manifest": {
-        "name": "AuthKey提取工具",
-        "icon": "icon.png",
-        "version": "1.0.0",
-        "description": "从小米运动健康的日志或数据库文件中提取设备名和AuthKey",
-        "author": "AstroBox Team",
-        "website": "https://astrobox.online",
-        "entry": "astrobox_ng_plugin_mifitness_log_reader.wasm",
-        "wasi_version": 2,
-        "api_level": 2,
-        "permissions": [
-          "clipboard.write"
-        ],
-        "additional_files": []
-      }
-    },
     {
       "repo": "https://raw.githubusercontent.com/sf-yuzifu/Daymatter-AstroBox-Plugin/refs/heads/v2/",
       "folder": "dist",
@@ -272,7 +253,7 @@
       "manifest": {
         "name": "永昼天气同步器",
         "icon": "icon.png",
-        "version": "3.3.14",
+        "version": "3.3.18",
         "description": "在AstroBox中同步天气数据到永昼天气",
         "author": "B4QAQ",
         "website": "https://docs.b4qaq.cn/docs/eternal",
